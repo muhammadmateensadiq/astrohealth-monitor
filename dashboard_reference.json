@@ -1,0 +1,202 @@
+{
+  "hemoglobin_value_percent": {
+    "label": "Hemoglobin",
+    "unit": "g/dL",
+    "category": "Blood / cardiovascular",
+    "lab_min": 13.2,
+    "lab_max": 17.1,
+    "preflight_mean": 14.375000000000002,
+    "preflight_sd": 1.727912560919047,
+    "ranges": {
+      "Reference set 1": [
+        13.2,
+        17.1
+      ],
+      "Reference set 2": [
+        11.7,
+        15.5
+      ]
+    }
+  },
+  "hematocrit_value_percent": {
+    "label": "Hematocrit",
+    "unit": "%",
+    "category": "Blood / cardiovascular",
+    "lab_min": 38.5,
+    "lab_max": 50.0,
+    "preflight_mean": 43.300000000000004,
+    "preflight_sd": 4.449106141074346,
+    "ranges": {
+      "Reference set 1": [
+        38.5,
+        50.0
+      ],
+      "Reference set 2": [
+        35.0,
+        45.0
+      ]
+    }
+  },
+  "white_blood_cell_count_value_thousand_per_microliter": {
+    "label": "White blood cells",
+    "unit": "x10^3/uL",
+    "category": "Immune / radiation awareness",
+    "lab_min": 3.8,
+    "lab_max": 10.8,
+    "preflight_mean": 7.533333333333334,
+    "preflight_sd": 1.8573359872938902,
+    "ranges": {
+      "Reference set 1": [
+        3.8,
+        10.8
+      ],
+      "Reference set 2": [
+        3.8,
+        10.8
+      ]
+    }
+  },
+  "lymphocytes_value_percent": {
+    "label": "Lymphocytes",
+    "unit": "%",
+    "category": "Immune / radiation awareness",
+    "lab_min": 15.0,
+    "lab_max": 49.0,
+    "preflight_mean": 31.183333333333334,
+    "preflight_sd": 7.176455612035453,
+    "ranges": {
+      "Reference set 1": [
+        15.0,
+        49.0
+      ],
+      "Reference set 2": [
+        15.0,
+        49.0
+      ]
+    }
+  },
+  "platelet_count_value_thousand_per_microliter": {
+    "label": "Platelets",
+    "unit": "x10^3/uL",
+    "category": "Blood / cardiovascular",
+    "lab_min": 140.0,
+    "lab_max": 400.0,
+    "preflight_mean": 272.6666666666667,
+    "preflight_sd": 52.69523582628584,
+    "ranges": {
+      "Reference set 1": [
+        140.0,
+        400.0
+      ],
+      "Reference set 2": [
+        140.0,
+        400.0
+      ]
+    }
+  },
+  "glucose_value_milligram_per_deciliter": {
+    "label": "Glucose",
+    "unit": "mg/dL",
+    "category": "Metabolic / stress",
+    "lab_min": 65.0,
+    "lab_max": 99.0,
+    "preflight_mean": 75.33333333333333,
+    "preflight_sd": 11.284207253207171,
+    "ranges": {
+      "Reference set 1": [
+        65.0,
+        99.0
+      ],
+      "Reference set 2": [
+        65.0,
+        99.0
+      ]
+    }
+  },
+  "creatinine_value_milligram_per_deciliter": {
+    "label": "Creatinine",
+    "unit": "mg/dL",
+    "category": "Muscle / kidney",
+    "lab_min": 0.6,
+    "lab_max": 1.35,
+    "preflight_mean": 1.07,
+    "preflight_sd": 0.14795576734588312,
+    "ranges": {
+      "Reference set 1": [
+        0.6,
+        1.35
+      ],
+      "Reference set 2": [
+        0.5,
+        1.05
+      ]
+    }
+  },
+  "albumin_value_gram_per_deciliter": {
+    "label": "Albumin",
+    "unit": "g/dL",
+    "category": "Nutrition / muscle",
+    "lab_min": 3.6,
+    "lab_max": 5.1,
+    "preflight_mean": 4.65,
+    "preflight_sd": 0.2844452335847639,
+    "ranges": {
+      "Reference set 1": [
+        3.6,
+        5.1
+      ],
+      "Reference set 2": [
+        3.6,
+        5.1
+      ]
+    }
+  },
+  "alkaline_phosphatase_value_units_per_liter": {
+    "label": "Alkaline phosphatase",
+    "unit": "U/L",
+    "category": "Bone / muscle",
+    "lab_min": 36.0,
+    "lab_max": 130.0,
+    "preflight_mean": 52.916666666666664,
+    "preflight_sd": 14.871927999564901,
+    "ranges": {
+      "Reference set 1": [
+        36.0,
+        130.0
+      ],
+      "Reference set 2": [
+        37.0,
+        153.0
+      ]
+    }
+  },
+  "calcium_value_milligram_per_deciliter": {
+    "label": "Calcium",
+    "unit": "mg/dL",
+    "category": "Bone / muscle",
+    "lab_min": 8.6,
+    "lab_max": 10.3,
+    "preflight_mean": 9.825,
+    "preflight_sd": 0.35451631581891696,
+    "ranges": {
+      "Reference set 1": [
+        8.6,
+        10.3
+      ],
+      "Reference set 2": [
+        8.6,
+        10.4
+      ]
+    }
+  },
+  "crp_mg_per_L": {
+    "label": "C-reactive protein",
+    "unit": "mg/L",
+    "category": "Inflammation / stress",
+    "lab_min": null,
+    "lab_max": null,
+    "preflight_mean": 17.7125,
+    "preflight_sd": 21.612887355632814,
+    "ranges": {}
+  }
+}

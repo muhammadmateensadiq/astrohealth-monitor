@@ -1,0 +1,309 @@
+Crew,Timepoint,Day,Phase,biomarker,value,label,z_vs_own_baseline
+C001,L-92,-92,Pre-flight,hemoglobin_value_percent,14.1,Hemoglobin,-0.6407322654462267
+C001,L-44,-44,Pre-flight,hemoglobin_value_percent,14.9,Hemoglobin,0.45766590389015843
+C001,L-3,-3,Pre-flight,hemoglobin_value_percent,14.7,Hemoglobin,0.18306636155606093
+C001,R+1,1,Post-flight,hemoglobin_value_percent,14.7,Hemoglobin,0.18306636155606093
+C001,R+45,45,Post-flight,hemoglobin_value_percent,14.3,Hemoglobin,-0.3661327231121292
+C001,R+82,82,Post-flight,hemoglobin_value_percent,15.7,Hemoglobin,1.5560640732265412
+C001,R+194,194,Post-flight,hemoglobin_value_percent,14.1,Hemoglobin,-0.6407322654462267
+C002,L-92,-92,Pre-flight,hemoglobin_value_percent,13.2,Hemoglobin,0.7875615306482161
+C002,L-44,-44,Pre-flight,hemoglobin_value_percent,12.8,Hemoglobin,0.337526370277808
+C002,L-3,-3,Pre-flight,hemoglobin_value_percent,11.5,Hemoglobin,-1.1250879009260242
+C002,R+1,1,Post-flight,hemoglobin_value_percent,12.1,Hemoglobin,-0.4500351603704101
+C002,R+45,45,Post-flight,hemoglobin_value_percent,12.2,Hemoglobin,-0.337526370277808
+C002,R+82,82,Post-flight,hemoglobin_value_percent,11.5,Hemoglobin,-1.1250879009260242
+C002,R+194,194,Post-flight,hemoglobin_value_percent,12.7,Hemoglobin,0.22501758018520404
+C003,L-92,-92,Pre-flight,hemoglobin_value_percent,13.2,Hemoglobin,-0.6356968215158928
+C003,L-44,-44,Pre-flight,hemoglobin_value_percent,14.4,Hemoglobin,1.1246943765281185
+C003,L-3,-3,Pre-flight,hemoglobin_value_percent,13.3,Hemoglobin,-0.4889975550122232
+C003,R+1,1,Post-flight,hemoglobin_value_percent,13.5,Hemoglobin,-0.1955990220048893
+C003,R+45,45,Post-flight,hemoglobin_value_percent,14.6,Hemoglobin,1.4180929095354526
+C003,R+82,82,Post-flight,hemoglobin_value_percent,14.4,Hemoglobin,1.1246943765281185
+C003,R+194,194,Post-flight,hemoglobin_value_percent,13.3,Hemoglobin,-0.4889975550122232
+C004,L-92,-92,Pre-flight,hemoglobin_value_percent,17.0,Hemoglobin,0.23809523809523722
+C004,L-44,-44,Pre-flight,hemoglobin_value_percent,16.6,Hemoglobin,-0.23809523809523722
+C004,L-3,-3,Pre-flight,hemoglobin_value_percent,16.8,Hemoglobin,0.0
+C004,R+1,1,Post-flight,hemoglobin_value_percent,16.5,Hemoglobin,-0.35714285714285793
+C004,R+45,45,Post-flight,hemoglobin_value_percent,16.8,Hemoglobin,0.0
+C004,R+82,82,Post-flight,hemoglobin_value_percent,16.4,Hemoglobin,-0.47619047619047866
+C004,R+194,194,Post-flight,hemoglobin_value_percent,16.5,Hemoglobin,-0.35714285714285793
+C001,L-92,-92,Pre-flight,hematocrit_value_percent,42.5,Hematocrit,-0.6964420893262672
+C001,L-44,-44,Pre-flight,hematocrit_value_percent,45.1,Hematocrit,0.48448145344436183
+C001,L-3,-3,Pre-flight,hematocrit_value_percent,44.5,Hematocrit,0.2119606358819085
+C001,R+1,1,Post-flight,hematocrit_value_percent,43.6,Hematocrit,-0.1968205904617699
+C001,R+45,45,Post-flight,hematocrit_value_percent,43.3,Hematocrit,-0.33308099924299817
+C001,R+82,82,Post-flight,hematocrit_value_percent,46.1,Hematocrit,0.9386828160484496
+C001,R+194,194,Post-flight,hematocrit_value_percent,41.8,Hematocrit,-1.0143830431491299
+C002,L-92,-92,Pre-flight,hematocrit_value_percent,40.8,Hematocrit,1.065914307759938
+C002,L-44,-44,Pre-flight,hematocrit_value_percent,37.8,Hematocrit,-0.14841844791594094
+C002,L-3,-3,Pre-flight,hematocrit_value_percent,35.9,Hematocrit,-0.9174958598439971
+C002,R+1,1,Post-flight,hematocrit_value_percent,36.4,Hematocrit,-0.7151070672313505
+C002,R+45,45,Post-flight,hematocrit_value_percent,37.1,Hematocrit,-0.4317627575736443
+C002,R+82,82,Post-flight,hematocrit_value_percent,34.7,Hematocrit,-1.4032289621143468
+C002,R+194,194,Post-flight,hematocrit_value_percent,38.3,Hematocrit,0.05397034469670554
+C003,L-92,-92,Pre-flight,hematocrit_value_percent,40.7,Hematocrit,-0.4483586869495581
+C003,L-44,-44,Pre-flight,hematocrit_value_percent,42.6,Hematocrit,0.46437149719775916
+C003,L-3,-3,Pre-flight,hematocrit_value_percent,41.6,Hematocrit,-0.01601281024819765
+C003,R+1,1,Post-flight,hematocrit_value_percent,41.4,Hematocrit,-0.11208967173739037
+C003,R+45,45,Post-flight,hematocrit_value_percent,44.3,Hematocrit,1.2810248198558836
+C003,R+82,82,Post-flight,hematocrit_value_percent,44.6,Hematocrit,1.4251401120896727
+C003,R+194,194,Post-flight,hematocrit_value_percent,40.4,Hematocrit,-0.5924739791833472
+C004,L-92,-92,Pre-flight,hematocrit_value_percent,49.1,Hematocrit,-0.10803511141120824
+C004,L-44,-44,Pre-flight,hematocrit_value_percent,50.0,Hematocrit,0.2565833896016203
+C004,L-3,-3,Pre-flight,hematocrit_value_percent,49.0,Hematocrit,-0.14854827819041205
+C004,R+1,1,Post-flight,hematocrit_value_percent,48.3,Hematocrit,-0.43214044564483584
+C004,R+45,45,Post-flight,hematocrit_value_percent,49.0,Hematocrit,-0.14854827819041205
+C004,R+82,82,Post-flight,hematocrit_value_percent,47.5,Hematocrit,-0.7562457798784605
+C004,R+194,194,Post-flight,hematocrit_value_percent,48.0,Hematocrit,-0.5536799459824444
+C001,L-92,-92,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,5.4,White blood cells,-0.6322368028097604
+C001,L-44,-44,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,5.5,White blood cells,-0.5206656023139205
+C001,L-3,-3,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,7.0,White blood cells,1.1529024051236838
+C001,R+1,1,Post-flight,white_blood_cell_count_value_thousand_per_microliter,5.0,White blood cells,-1.0785216047931219
+C001,R+45,45,Post-flight,white_blood_cell_count_value_thousand_per_microliter,4.9,White blood cells,-1.1900928052889617
+C001,R+82,82,Post-flight,white_blood_cell_count_value_thousand_per_microliter,4.9,White blood cells,-1.1900928052889617
+C001,R+194,194,Post-flight,white_blood_cell_count_value_thousand_per_microliter,4.9,White blood cells,-1.1900928052889617
+C002,L-92,-92,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,6.5,White blood cells,0.14694367167412853
+C002,L-44,-44,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,5.4,White blood cells,-1.0653416196374357
+C002,L-3,-3,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,7.2,White blood cells,0.9183979479633062
+C002,R+1,1,Post-flight,white_blood_cell_count_value_thousand_per_microliter,5.5,White blood cells,-0.9551338658818394
+C002,R+45,45,Post-flight,white_blood_cell_count_value_thousand_per_microliter,6.4,White blood cells,0.03673591791853213
+C002,R+82,82,Post-flight,white_blood_cell_count_value_thousand_per_microliter,5.3,White blood cells,-1.1755493733930331
+C002,R+194,194,Post-flight,white_blood_cell_count_value_thousand_per_microliter,6.4,White blood cells,0.03673591791853213
+C003,L-92,-92,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,9.6,White blood cells,0.06968641114982181
+C003,L-44,-44,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,9.3,White blood cells,-0.5574912891986079
+C003,L-3,-3,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,9.8,White blood cells,0.48780487804877865
+C003,R+1,1,Post-flight,white_blood_cell_count_value_thousand_per_microliter,7.0,White blood cells,-5.3658536585365875
+C003,R+45,45,Post-flight,white_blood_cell_count_value_thousand_per_microliter,7.8,White blood cells,-3.693379790940769
+C003,R+82,82,Post-flight,white_blood_cell_count_value_thousand_per_microliter,8.8,White blood cells,-1.6027874564459943
+C003,R+194,194,Post-flight,white_blood_cell_count_value_thousand_per_microliter,7.4,White blood cells,-4.529616724738678
+C004,L-92,-92,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,7.7,White blood cells,-0.2480396585108597
+C004,L-44,-44,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,6.4,White blood cells,-0.8526363261310813
+C004,L-3,-3,Pre-flight,white_blood_cell_count_value_thousand_per_microliter,10.6,White blood cells,1.1006759846419423
+C004,R+1,1,Post-flight,white_blood_cell_count_value_thousand_per_microliter,8.1,White blood cells,-0.062009914627714824
+C004,R+45,45,Post-flight,white_blood_cell_count_value_thousand_per_microliter,6.8,White blood cells,-0.6666065822479365
+C004,R+82,82,Post-flight,white_blood_cell_count_value_thousand_per_microliter,7.9,White blood cells,-0.15502478656928706
+C004,R+194,194,Post-flight,white_blood_cell_count_value_thousand_per_microliter,8.3,White blood cells,0.031004957313858238
+C001,L-92,-92,Pre-flight,lymphocytes_value_percent,41.5,Lymphocytes,0.9588581747726852
+C001,L-44,-44,Pre-flight,lymphocytes_value_percent,33.8,Lymphocytes,-1.0366034321866897
+C001,L-3,-3,Pre-flight,lymphocytes_value_percent,38.1,Lymphocytes,0.07774525741400086
+C001,R+1,1,Post-flight,lymphocytes_value_percent,32.8,Lymphocytes,-1.2957542902333619
+C001,R+45,45,Post-flight,lymphocytes_value_percent,43.8,Lymphocytes,1.55490514828003
+C001,R+82,82,Post-flight,lymphocytes_value_percent,44.3,Lymphocytes,1.6844805773033662
+C001,R+194,194,Post-flight,lymphocytes_value_percent,37.7,Lymphocytes,-0.025915085804667566
+C002,L-92,-92,Pre-flight,lymphocytes_value_percent,32.6,Lymphocytes,-1.0384684534939745
+C002,L-44,-44,Pre-flight,lymphocytes_value_percent,36.7,Lymphocytes,0.0819843515916308
+C002,L-3,-3,Pre-flight,lymphocytes_value_percent,39.9,Lymphocytes,0.9564841019023457
+C002,R+1,1,Post-flight,lymphocytes_value_percent,28.0,Lymphocytes,-2.295561844565629
+C002,R+45,45,Post-flight,lymphocytes_value_percent,44.9,Lymphocytes,2.3228899617628396
+C002,R+82,82,Post-flight,lymphocytes_value_percent,32.1,Lymphocytes,-1.1751090394800239
+C002,R+194,194,Post-flight,lymphocytes_value_percent,40.2,Lymphocytes,1.0384684534939765
+C003,L-92,-92,Pre-flight,lymphocytes_value_percent,20.8,Lymphocytes,-0.7020977949918044
+C003,L-44,-44,Pre-flight,lymphocytes_value_percent,22.4,Lymphocytes,-0.442861686071754
+C003,L-3,-3,Pre-flight,lymphocytes_value_percent,32.2,Lymphocytes,1.1449594810635573
+C003,R+1,1,Post-flight,lymphocytes_value_percent,29.8,Lymphocytes,0.7561053176834809
+C003,R+45,45,Post-flight,lymphocytes_value_percent,30.5,Lymphocytes,0.869521115336003
+C003,R+82,82,Post-flight,lymphocytes_value_percent,36.9,Lymphocytes,1.9064655510162056
+C003,R+194,194,Post-flight,lymphocytes_value_percent,30.0,Lymphocytes,0.7885098312984871
+C004,L-92,-92,Pre-flight,lymphocytes_value_percent,23.2,Lymphocytes,-0.9538209664765328
+C004,L-44,-44,Pre-flight,lymphocytes_value_percent,25.2,Lymphocytes,-0.08671099695241319
+C004,L-3,-3,Pre-flight,lymphocytes_value_percent,27.8,Lymphocytes,1.040531963428943
+C004,R+1,1,Post-flight,lymphocytes_value_percent,26.6,Lymphocytes,0.5202659817144715
+C004,R+45,45,Post-flight,lymphocytes_value_percent,28.5,Lymphocytes,1.3440204527623845
+C004,R+82,82,Post-flight,lymphocytes_value_percent,29.2,Lymphocytes,1.647508942095826
+C004,R+194,194,Post-flight,lymphocytes_value_percent,31.8,Lymphocytes,2.774751902477182
+C001,L-92,-92,Pre-flight,platelet_count_value_thousand_per_microliter,241.0,Platelets,-0.3532608695652181
+C001,L-44,-44,Pre-flight,platelet_count_value_thousand_per_microliter,237.0,Platelets,-0.6793478260869572
+C001,L-3,-3,Pre-flight,platelet_count_value_thousand_per_microliter,258.0,Platelets,1.0326086956521732
+C001,R+1,1,Post-flight,platelet_count_value_thousand_per_microliter,227.0,Platelets,-1.494565217391305
+C001,R+45,45,Post-flight,platelet_count_value_thousand_per_microliter,228.0,Platelets,-1.4130434782608703
+C001,R+82,82,Post-flight,platelet_count_value_thousand_per_microliter,257.0,Platelets,0.9510869565217382
+C001,R+194,194,Post-flight,platelet_count_value_thousand_per_microliter,214.0,Platelets,-2.554347826086957
+C002,L-92,-92,Pre-flight,platelet_count_value_thousand_per_microliter,241.0,Platelets,0.33755274261603374
+C002,L-44,-44,Pre-flight,platelet_count_value_thousand_per_microliter,229.0,Platelets,-0.6751054852320675
+C002,L-3,-3,Pre-flight,platelet_count_value_thousand_per_microliter,241.0,Platelets,0.33755274261603374
+C002,R+1,1,Post-flight,platelet_count_value_thousand_per_microliter,252.0,Platelets,1.2658227848101264
+C002,R+45,45,Post-flight,platelet_count_value_thousand_per_microliter,252.0,Platelets,1.2658227848101264
+C002,R+82,82,Post-flight,platelet_count_value_thousand_per_microliter,245.0,Platelets,0.6751054852320675
+C002,R+194,194,Post-flight,platelet_count_value_thousand_per_microliter,243.0,Platelets,0.5063291139240506
+C003,L-92,-92,Pre-flight,platelet_count_value_thousand_per_microliter,352.0,Platelets,-0.15037593984962513
+C003,L-44,-44,Pre-flight,platelet_count_value_thousand_per_microliter,345.0,Platelets,-0.5451127819548882
+C003,L-3,-3,Pre-flight,platelet_count_value_thousand_per_microliter,367.0,Platelets,0.6954887218045102
+C003,R+1,1,Post-flight,platelet_count_value_thousand_per_microliter,359.0,Platelets,0.24436090225563803
+C003,R+45,45,Post-flight,platelet_count_value_thousand_per_microliter,396.0,Platelets,2.330827067669172
+C003,R+82,82,Post-flight,platelet_count_value_thousand_per_microliter,345.0,Platelets,-0.5451127819548882
+C003,R+194,194,Post-flight,platelet_count_value_thousand_per_microliter,185.0,Platelets,-9.567669172932332
+C004,L-92,-92,Pre-flight,platelet_count_value_thousand_per_microliter,239.0,Platelets,-0.4040950971038545
+C004,L-44,-44,Pre-flight,platelet_count_value_thousand_per_microliter,227.0,Platelets,-0.7347183583706447
+C004,L-3,-3,Pre-flight,platelet_count_value_thousand_per_microliter,295.0,Platelets,1.1388134554745
+C004,R+1,1,Post-flight,platelet_count_value_thousand_per_microliter,240.0,Platelets,-0.3765431586649553
+C004,R+45,45,Post-flight,platelet_count_value_thousand_per_microliter,281.0,Platelets,0.7530863173299114
+C004,R+82,82,Post-flight,platelet_count_value_thousand_per_microliter,198.0,Platelets,-1.533724573098721
+C004,R+194,194,Post-flight,platelet_count_value_thousand_per_microliter,256.0,Platelets,0.0642878563574317
+C001,L-92,-92,Pre-flight,glucose_value_milligram_per_deciliter,83.0,Glucose,0.7687665737984296
+C001,L-44,-44,Pre-flight,glucose_value_milligram_per_deciliter,80.0,Glucose,0.3617725053169084
+C001,L-3,-3,Pre-flight,glucose_value_milligram_per_deciliter,69.0,Glucose,-1.130539079115336
+C001,R+1,1,Post-flight,glucose_value_milligram_per_deciliter,90.0,Glucose,1.7184194002553124
+C001,R+45,45,Post-flight,glucose_value_milligram_per_deciliter,84.0,Glucose,0.90443126329227
+C001,R+82,82,Post-flight,glucose_value_milligram_per_deciliter,91.0,Glucose,1.8540840897491528
+C001,R+194,194,Post-flight,glucose_value_milligram_per_deciliter,87.0,Glucose,1.3114253317737912
+C002,L-92,-92,Pre-flight,glucose_value_milligram_per_deciliter,69.0,Glucose,-0.8728715609439696
+C002,L-44,-44,Pre-flight,glucose_value_milligram_per_deciliter,72.0,Glucose,-0.2182178902359924
+C002,L-3,-3,Pre-flight,glucose_value_milligram_per_deciliter,78.0,Glucose,1.091089451179962
+C002,R+1,1,Post-flight,glucose_value_milligram_per_deciliter,83.0,Glucose,2.182178902359924
+C002,R+45,45,Post-flight,glucose_value_milligram_per_deciliter,44.0,Glucose,-6.32831881684378
+C002,R+82,82,Post-flight,glucose_value_milligram_per_deciliter,77.0,Glucose,0.8728715609439696
+C002,R+194,194,Post-flight,glucose_value_milligram_per_deciliter,84.0,Glucose,2.400396792595916
+C003,L-92,-92,Pre-flight,glucose_value_milligram_per_deciliter,77.0,Glucose,0.6957636827095498
+C003,L-44,-44,Pre-flight,glucose_value_milligram_per_deciliter,62.0,Glucose,-1.1459637126980804
+C003,L-3,-3,Pre-flight,glucose_value_milligram_per_deciliter,75.0,Glucose,0.4502000299885324
+C003,R+1,1,Post-flight,glucose_value_milligram_per_deciliter,103.0,Glucose,3.8880911680827754
+C003,R+45,45,Post-flight,glucose_value_milligram_per_deciliter,36.0,Glucose,-4.338291198071306
+C003,R+82,82,Post-flight,glucose_value_milligram_per_deciliter,80.0,Glucose,1.0641091617910758
+C003,R+194,194,Post-flight,glucose_value_milligram_per_deciliter,73.0,Glucose,0.20463637726751505
+C004,L-92,-92,Pre-flight,glucose_value_milligram_per_deciliter,100.0,Glucose,0.9163870852441431
+C004,L-44,-44,Pre-flight,glucose_value_milligram_per_deciliter,83.0,Glucose,0.15022739102362984
+C004,L-3,-3,Pre-flight,glucose_value_milligram_per_deciliter,56.0,Glucose,-1.0666144762677736
+C004,R+1,1,Post-flight,glucose_value_milligram_per_deciliter,97.0,Glucose,0.7811824333228761
+C004,R+45,45,Post-flight,glucose_value_milligram_per_deciliter,43.0,Glucose,-1.6525013012599308
+C004,R+82,82,Post-flight,glucose_value_milligram_per_deciliter,80.0,Glucose,0.015022739102362792
+C004,R+194,194,Post-flight,glucose_value_milligram_per_deciliter,84.0,Glucose,0.19529560833071885
+C001,L-92,-92,Pre-flight,creatinine_value_milligram_per_deciliter,1.24,Creatinine,0.024685714930566184
+C001,L-44,-44,Pre-flight,creatinine_value_milligram_per_deciliter,1.1,Creatinine,-1.0121143121531888
+C001,L-3,-3,Pre-flight,creatinine_value_milligram_per_deciliter,1.37,Creatinine,0.9874285972226259
+C001,R+1,1,Post-flight,creatinine_value_milligram_per_deciliter,1.12,Creatinine,-0.864000022569795
+C001,R+45,45,Post-flight,creatinine_value_milligram_per_deciliter,1.11,Creatinine,-0.9380571673614919
+C001,R+82,82,Post-flight,creatinine_value_milligram_per_deciliter,1.25,Creatinine,0.09874285972226308
+C001,R+194,194,Post-flight,creatinine_value_milligram_per_deciliter,1.29,Creatinine,0.3949714388890507
+C002,L-92,-92,Pre-flight,creatinine_value_milligram_per_deciliter,0.83,Creatinine,-0.914991421995629
+C002,L-44,-44,Pre-flight,creatinine_value_milligram_per_deciliter,0.88,Creatinine,-0.15249857033260483
+C002,L-3,-3,Pre-flight,creatinine_value_milligram_per_deciliter,0.96,Creatinine,1.0674899923282322
+C002,R+1,1,Post-flight,creatinine_value_milligram_per_deciliter,0.95,Creatinine,0.9149914219956273
+C002,R+45,45,Post-flight,creatinine_value_milligram_per_deciliter,1.02,Creatinine,1.9824814143238612
+C002,R+82,82,Post-flight,creatinine_value_milligram_per_deciliter,0.82,Creatinine,-1.067489992328234
+C002,R+194,194,Post-flight,creatinine_value_milligram_per_deciliter,1.02,Creatinine,1.9824814143238612
+C003,L-92,-92,Pre-flight,creatinine_value_milligram_per_deciliter,1.0,Creatinine,-0.7073954983922863
+C003,L-44,-44,Pre-flight,creatinine_value_milligram_per_deciliter,1.03,Creatinine,-0.1286173633440544
+C003,L-3,-3,Pre-flight,creatinine_value_milligram_per_deciliter,1.08,Creatinine,0.8360128617363322
+C003,R+1,1,Post-flight,creatinine_value_milligram_per_deciliter,0.89,Creatinine,-2.8295819935691346
+C003,R+45,45,Post-flight,creatinine_value_milligram_per_deciliter,0.94,Creatinine,-1.8649517684887502
+C003,R+82,82,Post-flight,creatinine_value_milligram_per_deciliter,0.89,Creatinine,-2.8295819935691346
+C003,R+194,194,Post-flight,creatinine_value_milligram_per_deciliter,1.1,Creatinine,1.2218649517684868
+C004,L-92,-92,Pre-flight,creatinine_value_milligram_per_deciliter,1.14,Creatinine,0.4179104477611958
+C004,L-44,-44,Pre-flight,creatinine_value_milligram_per_deciliter,1.08,Creatinine,-0.6567164179104431
+C004,L-3,-3,Pre-flight,creatinine_value_milligram_per_deciliter,1.13,Creatinine,0.2388059701492553
+C004,R+1,1,Post-flight,creatinine_value_milligram_per_deciliter,1.15,Creatinine,0.5970149253731363
+C004,R+45,45,Post-flight,creatinine_value_milligram_per_deciliter,1.08,Creatinine,-0.6567164179104431
+C004,R+82,82,Post-flight,creatinine_value_milligram_per_deciliter,1.11,Creatinine,-0.11940298507462169
+C004,R+194,194,Post-flight,creatinine_value_milligram_per_deciliter,1.31,Creatinine,3.462686567164184
+C001,L-92,-92,Pre-flight,albumin_value_gram_per_deciliter,5.0,Albumin,0.1342281879194626
+C001,L-44,-44,Pre-flight,albumin_value_gram_per_deciliter,5.0,Albumin,0.1342281879194626
+C001,L-3,-3,Pre-flight,albumin_value_gram_per_deciliter,4.9,Albumin,-0.2684563758389252
+C001,R+1,1,Post-flight,albumin_value_gram_per_deciliter,4.9,Albumin,-0.2684563758389252
+C001,R+45,45,Post-flight,albumin_value_gram_per_deciliter,4.9,Albumin,-0.2684563758389252
+C001,R+82,82,Post-flight,albumin_value_gram_per_deciliter,5.1,Albumin,0.5369127516778504
+C001,R+194,194,Post-flight,albumin_value_gram_per_deciliter,4.6,Albumin,-1.4765100671140958
+C002,L-92,-92,Pre-flight,albumin_value_gram_per_deciliter,4.9,Albumin,0.9999999999999989
+C002,L-44,-44,Pre-flight,albumin_value_gram_per_deciliter,4.6,Albumin,-2.9605947323337493e-15
+C002,L-3,-3,Pre-flight,albumin_value_gram_per_deciliter,4.3,Albumin,-1.0000000000000018
+C002,R+1,1,Post-flight,albumin_value_gram_per_deciliter,4.4,Albumin,-0.666666666666667
+C002,R+45,45,Post-flight,albumin_value_gram_per_deciliter,4.2,Albumin,-1.333333333333334
+C002,R+82,82,Post-flight,albumin_value_gram_per_deciliter,4.5,Albumin,-0.3333333333333349
+C002,R+194,194,Post-flight,albumin_value_gram_per_deciliter,4.3,Albumin,-1.0000000000000018
+C003,L-92,-92,Pre-flight,albumin_value_gram_per_deciliter,4.4,Albumin,-0.2773500981126136
+C003,L-44,-44,Pre-flight,albumin_value_gram_per_deciliter,4.9,Albumin,1.1094003924504592
+C003,L-3,-3,Pre-flight,albumin_value_gram_per_deciliter,4.2,Albumin,-0.8320502943378432
+C003,R+1,1,Post-flight,albumin_value_gram_per_deciliter,4.2,Albumin,-0.8320502943378432
+C003,R+45,45,Post-flight,albumin_value_gram_per_deciliter,4.5,Albumin,0.0
+C003,R+82,82,Post-flight,albumin_value_gram_per_deciliter,4.8,Albumin,0.8320502943378432
+C003,R+194,194,Post-flight,albumin_value_gram_per_deciliter,4.4,Albumin,-0.2773500981126136
+C004,L-92,-92,Pre-flight,albumin_value_gram_per_deciliter,4.6,Albumin,0.2941176470588225
+C004,L-44,-44,Pre-flight,albumin_value_gram_per_deciliter,4.4,Albumin,-0.588235294117645
+C004,L-3,-3,Pre-flight,albumin_value_gram_per_deciliter,4.6,Albumin,0.2941176470588225
+C004,R+1,1,Post-flight,albumin_value_gram_per_deciliter,4.5,Albumin,-0.14705882352941124
+C004,R+45,45,Post-flight,albumin_value_gram_per_deciliter,4.5,Albumin,-0.14705882352941124
+C004,R+82,82,Post-flight,albumin_value_gram_per_deciliter,4.6,Albumin,0.2941176470588225
+C004,R+194,194,Post-flight,albumin_value_gram_per_deciliter,4.3,Albumin,-1.0294117647058825
+C001,L-92,-92,Pre-flight,alkaline_phosphatase_value_units_per_liter,51.0,Alkaline phosphatase,1.1406468642034668
+C001,L-44,-44,Pre-flight,alkaline_phosphatase_value_units_per_liter,46.0,Alkaline phosphatase,-0.41478067789217077
+C001,L-3,-3,Pre-flight,alkaline_phosphatase_value_units_per_liter,45.0,Alkaline phosphatase,-0.7258661863112983
+C001,R+1,1,Post-flight,alkaline_phosphatase_value_units_per_liter,52.0,Alkaline phosphatase,1.4517323726225944
+C001,R+45,45,Post-flight,alkaline_phosphatase_value_units_per_liter,46.0,Alkaline phosphatase,-0.41478067789217077
+C001,R+82,82,Post-flight,alkaline_phosphatase_value_units_per_liter,49.0,Alkaline phosphatase,0.5184758473652118
+C001,R+194,194,Post-flight,alkaline_phosphatase_value_units_per_liter,50.0,Alkaline phosphatase,0.8295613557843393
+C002,L-92,-92,Pre-flight,alkaline_phosphatase_value_units_per_liter,73.0,Alkaline phosphatase,0.0
+C002,L-44,-44,Pre-flight,alkaline_phosphatase_value_units_per_liter,78.0,Alkaline phosphatase,1.0
+C002,L-3,-3,Pre-flight,alkaline_phosphatase_value_units_per_liter,68.0,Alkaline phosphatase,-1.0
+C002,R+1,1,Post-flight,alkaline_phosphatase_value_units_per_liter,71.0,Alkaline phosphatase,-0.4
+C002,R+45,45,Post-flight,alkaline_phosphatase_value_units_per_liter,65.0,Alkaline phosphatase,-1.6
+C002,R+82,82,Post-flight,alkaline_phosphatase_value_units_per_liter,65.0,Alkaline phosphatase,-1.6
+C002,R+194,194,Post-flight,alkaline_phosphatase_value_units_per_liter,66.0,Alkaline phosphatase,-1.4
+C003,L-92,-92,Pre-flight,alkaline_phosphatase_value_units_per_liter,33.0,Alkaline phosphatase,-0.3779644730092272
+C003,L-44,-44,Pre-flight,alkaline_phosphatase_value_units_per_liter,41.0,Alkaline phosphatase,1.1338934190276817
+C003,L-3,-3,Pre-flight,alkaline_phosphatase_value_units_per_liter,31.0,Alkaline phosphatase,-0.7559289460184544
+C003,R+1,1,Post-flight,alkaline_phosphatase_value_units_per_liter,41.0,Alkaline phosphatase,1.1338934190276817
+C003,R+45,45,Post-flight,alkaline_phosphatase_value_units_per_liter,51.0,Alkaline phosphatase,3.0237157840738176
+C003,R+82,82,Post-flight,alkaline_phosphatase_value_units_per_liter,50.0,Alkaline phosphatase,2.834733547569204
+C003,R+194,194,Post-flight,alkaline_phosphatase_value_units_per_liter,43.0,Alkaline phosphatase,1.5118578920369088
+C004,L-92,-92,Pre-flight,alkaline_phosphatase_value_units_per_liter,58.0,Alkaline phosphatase,0.5917159763313601
+C004,L-44,-44,Pre-flight,alkaline_phosphatase_value_units_per_liter,56.0,Alkaline phosphatase,-0.11834319526627302
+C004,L-3,-3,Pre-flight,alkaline_phosphatase_value_units_per_liter,55.0,Alkaline phosphatase,-0.47337278106508957
+C004,R+1,1,Post-flight,alkaline_phosphatase_value_units_per_liter,62.0,Alkaline phosphatase,2.0118343195266264
+C004,R+45,45,Post-flight,alkaline_phosphatase_value_units_per_liter,60.0,Alkaline phosphatase,1.3017751479289932
+C004,R+82,82,Post-flight,alkaline_phosphatase_value_units_per_liter,54.0,Alkaline phosphatase,-0.8284023668639061
+C004,R+194,194,Post-flight,alkaline_phosphatase_value_units_per_liter,57.0,Alkaline phosphatase,0.23668639053254353
+C001,L-92,-92,Pre-flight,calcium_value_milligram_per_deciliter,9.7,Calcium,-0.13651877133105755
+C001,L-44,-44,Pre-flight,calcium_value_milligram_per_deciliter,10.0,Calcium,0.4778156996587051
+C001,L-3,-3,Pre-flight,calcium_value_milligram_per_deciliter,9.6,Calcium,-0.34129692832764386
+C001,R+1,1,Post-flight,calcium_value_milligram_per_deciliter,9.7,Calcium,-0.13651877133105755
+C001,R+45,45,Post-flight,calcium_value_milligram_per_deciliter,9.6,Calcium,-0.34129692832764386
+C001,R+82,82,Post-flight,calcium_value_milligram_per_deciliter,10.1,Calcium,0.6825938566552914
+C001,R+194,194,Post-flight,calcium_value_milligram_per_deciliter,9.4,Calcium,-0.7508532423208165
+C002,L-92,-92,Pre-flight,calcium_value_milligram_per_deciliter,10.2,Calcium,0.9589041095890414
+C002,L-44,-44,Pre-flight,calcium_value_milligram_per_deciliter,9.7,Calcium,-0.06849315068493127
+C002,L-3,-3,Pre-flight,calcium_value_milligram_per_deciliter,9.3,Calcium,-0.8904109589041065
+C002,R+1,1,Post-flight,calcium_value_milligram_per_deciliter,9.2,Calcium,-1.0958904109589038
+C002,R+45,45,Post-flight,calcium_value_milligram_per_deciliter,9.3,Calcium,-0.8904109589041065
+C002,R+82,82,Post-flight,calcium_value_milligram_per_deciliter,9.7,Calcium,-0.06849315068493127
+C002,R+194,194,Post-flight,calcium_value_milligram_per_deciliter,9.5,Calcium,-0.47945205479451886
+C003,L-92,-92,Pre-flight,calcium_value_milligram_per_deciliter,9.3,Calcium,-0.7559289460184547
+C003,L-44,-44,Pre-flight,calcium_value_milligram_per_deciliter,10.3,Calcium,1.1338934190276804
+C003,L-3,-3,Pre-flight,calcium_value_milligram_per_deciliter,9.5,Calcium,-0.37796447300922903
+C003,R+1,1,Post-flight,calcium_value_milligram_per_deciliter,9.4,Calcium,-0.5669467095138419
+C003,R+45,45,Post-flight,calcium_value_milligram_per_deciliter,9.6,Calcium,-0.1889822365046162
+C003,R+82,82,Post-flight,calcium_value_milligram_per_deciliter,10.0,Calcium,0.5669467095138385
+C003,R+194,194,Post-flight,calcium_value_milligram_per_deciliter,9.6,Calcium,-0.1889822365046162
+C004,L-92,-92,Pre-flight,calcium_value_milligram_per_deciliter,10.0,Calcium,-0.1980198019801973
+C004,L-44,-44,Pre-flight,calcium_value_milligram_per_deciliter,10.1,Calcium,0.0
+C004,L-3,-3,Pre-flight,calcium_value_milligram_per_deciliter,10.2,Calcium,0.1980198019801973
+C004,R+1,1,Post-flight,calcium_value_milligram_per_deciliter,9.8,Calcium,-0.5940594059405919
+C004,R+45,45,Post-flight,calcium_value_milligram_per_deciliter,9.8,Calcium,-0.5940594059405919
+C004,R+82,82,Post-flight,calcium_value_milligram_per_deciliter,10.0,Calcium,-0.1980198019801973
+C004,R+194,194,Post-flight,calcium_value_milligram_per_deciliter,9.8,Calcium,-0.5940594059405919
+C001,L-92,-92,Pre-flight,crp_mg_per_L,18.385,C-reactive protein,1.1378055714336957
+C001,L-44,-44,Pre-flight,crp_mg_per_L,2.191,C-reactive protein,-0.739340050453262
+C001,L-3,-3,Pre-flight,crp_mg_per_L,5.1317,C-reactive protein,-0.39846552098043403
+C001,R+1,1,Post-flight,crp_mg_per_L,10.6376,C-reactive protein,0.23975703549402572
+C001,R+45,45,Post-flight,crp_mg_per_L,6.7139,C-reactive protein,-0.21506303839740676
+C001,R+82,82,Post-flight,crp_mg_per_L,25.03,C-reactive protein,1.9080681784139866
+C001,R+194,194,Post-flight,crp_mg_per_L,15.415,C-reactive protein,0.7935346996908115
+C002,L-92,-92,Pre-flight,crp_mg_per_L,8.9271,C-reactive protein,0.2692474242268008
+C002,L-44,-44,Pre-flight,crp_mg_per_L,1.5685,C-reactive protein,-1.1070584751748744
+C002,L-3,-3,Pre-flight,crp_mg_per_L,11.967,C-reactive protein,0.8378110509480732
+C002,R+1,1,Post-flight,crp_mg_per_L,9.3115,C-reactive protein,0.34114316359706226
+C002,R+45,45,Post-flight,crp_mg_per_L,3.6772,C-reactive protein,-0.7126605937751093
+C002,R+82,82,Post-flight,crp_mg_per_L,8.6337,C-reactive protein,0.2143717480269188
+C002,R+194,194,Post-flight,crp_mg_per_L,21.462,C-reactive protein,2.6136956641651126
+C003,L-92,-92,Pre-flight,crp_mg_per_L,75.749,C-reactive protein,0.997257011842821
+C003,L-44,-44,Pre-flight,crp_mg_per_L,9.3831,C-reactive protein,-1.0027205999357343
+C003,L-3,-3,Pre-flight,crp_mg_per_L,42.838,C-reactive protein,0.005463588092912966
+C003,R+1,1,Post-flight,crp_mg_per_L,83.617,C-reactive protein,1.2343640781144107
+C003,R+45,45,Post-flight,crp_mg_per_L,39.19,C-reactive protein,-0.1044711574280274
+C003,R+82,82,Post-flight,crp_mg_per_L,12.68,C-reactive protein,-0.9033664709587638
+C003,R+194,194,Post-flight,crp_mg_per_L,9.3794,C-reactive protein,-1.0028321017335486
+C004,L-92,-92,Pre-flight,crp_mg_per_L,21.378,C-reactive protein,0.9113894787192939
+C004,L-44,-44,Pre-flight,crp_mg_per_L,1.2896,C-reactive protein,-1.0697199127522614
+C004,L-3,-3,Pre-flight,crp_mg_per_L,13.742,C-reactive protein,0.15833043403296776
+C004,R+1,1,Post-flight,crp_mg_per_L,17.701,C-reactive protein,0.5487653158969235
+C004,R+45,45,Post-flight,crp_mg_per_L,22.407,C-reactive protein,1.0128690173497588
+C004,R+82,82,Post-flight,crp_mg_per_L,7.9023,C-reactive protein,-0.4175782751413041
+C004,R+194,194,Post-flight,crp_mg_per_L,46.006,C-reactive protein,3.3401922750177278

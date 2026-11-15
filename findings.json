@@ -1,0 +1,105 @@
+{
+  "n_samples": 28,
+  "n_crew": 4,
+  "n_features": 118,
+  "timepoints": [
+    "L-92",
+    "L-44",
+    "L-3",
+    "R+1",
+    "R+45",
+    "R+82",
+    "R+194"
+  ],
+  "top_shifted_R1": [
+    {
+      "label": "IL 6",
+      "mean_pct_change": 90.06,
+      "mean_z": 5.1
+    },
+    {
+      "label": "MCP 1",
+      "mean_pct_change": 97.22,
+      "mean_z": 4.05
+    },
+    {
+      "label": "MONOCYTES",
+      "mean_pct_change": 25.52,
+      "mean_z": 3.45
+    },
+    {
+      "label": "IL 10",
+      "mean_pct_change": 54.5,
+      "mean_z": 2.33
+    },
+    {
+      "label": "IL 27",
+      "mean_pct_change": 41.25,
+      "mean_z": 2.29
+    },
+    {
+      "label": "GLUCOSE",
+      "mean_pct_change": 24.06,
+      "mean_z": 2.14
+    },
+    {
+      "label": "WHITE BLOOD CELL COUNT",
+      "mean_pct_change": -14.57,
+      "mean_z": -1.87
+    },
+    {
+      "label": "IP 10",
+      "mean_pct_change": 55.64,
+      "mean_z": 1.62
+    },
+    {
+      "label": "TNF\u0391",
+      "mean_pct_change": 25.89,
+      "mean_z": 1.3
+    },
+    {
+      "label": "MIP 1\u0391",
+      "mean_pct_change": -16.56,
+      "mean_z": -1.29
+    },
+    {
+      "label": "IL 7",
+      "mean_pct_change": 27.67,
+      "mean_z": 1.23
+    },
+    {
+      "label": "IL 17E PER IL 25",
+      "mean_pct_change": -20.62,
+      "mean_z": -0.97
+    },
+    {
+      "label": "IL 4",
+      "mean_pct_change": 23.34,
+      "mean_z": 0.9
+    },
+    {
+      "label": "CARBON DIOXIDE",
+      "mean_pct_change": -5.66,
+      "mean_z": -0.89
+    },
+    {
+      "label": "IL 5",
+      "mean_pct_change": 16.64,
+      "mean_z": 0.81
+    }
+  ],
+  "model": {
+    "balanced_accuracy": 0.833,
+    "auc": 0.958,
+    "permutation_p": 0.025
+  },
+  "deviation_index_fair": {
+    "L-92": 0.77,
+    "L-44": 0.79,
+    "L-3": 0.98,
+    "R+1": 0.91,
+    "R+45": 1.04,
+    "R+82": 1.01,
+    "R+194": 1.22
+  }
+}
